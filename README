@@ -1,0 +1,7 @@
+Los Intent en Android son llamadas a la realización de operaciones.Es una descripción abstracta de una operación que se va a llevar a cabo.
+
+Los Intent Implícitos son aquellos en el sistema decide la mejor forma de ejecutar la operación.
+
+Práctica para Intents Implícitos.
+
+Versión 0.0.1 23/08/2012
